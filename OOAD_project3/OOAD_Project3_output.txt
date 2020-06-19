@@ -1,0 +1,2332 @@
+
+ ------------------------ 
+         Day 1            
+ ------------------------ 
+    Rentals Today: 8    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. EBF038 was rented to Casual Customer No. 373 for 3 days, for a total fee of $201.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. PUU950 was rented to Business Customer No. 303 for 7 days, for a total fee of $609.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Minivan Car with Licence Plate No. LKS428 was rented to Business Customer No. 303 for 7 days, for a total fee of $560.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. TYJ173 was rented to Business Customer No. 303 for 7 days, for a total fee of $469.0
+     Options Added:     
+     GPS     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. LEZ178 was rented to Regular Customer No. 95 for 5 days, for a total fee of $210.0
+     Options Added:     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. ADP349 was rented to Regular Customer No. 32 for 4 days, for a total fee of $300.0
+     Options Added:     
+     GPS     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. VAO267 was rented to Regular Customer No. 32 for 4 days, for a total fee of $380.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. REX719 was rented to Regular Customer No. 32 for 4 days, for a total fee of $328.0
+     Options Added:     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 8  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 373 has the following rentals: 
+ - Economy Car, License Plate No. EBF038
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - SUV Car, License Plate No. PUU950
+ - Minivan Car, License Plate No. LKS428
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 95 has the following rentals: 
+ - Economy Car, License Plate No. LEZ178
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. ADP349
+ - SUV Car, License Plate No. VAO267
+ - SUV Car, License Plate No. REX719
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 16  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. SPL469
+ - Standard Car, License Plate No. VGT020
+ - Luxury Car, License Plate No. TWS373
+ - Luxury Car, License Plate No. GVB948
+ - Luxury Car, License Plate No. GUN681
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. GYG261
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Minivan Car, License Plate No. TMQ186
+ - Economy Car, License Plate No. GHB732
+ - Economy Car, License Plate No. XHM780
+ - Economy Car, License Plate No. EGZ543
+ ------------------------ 
+    Total Made: $3057   
+ ------------------------ 
+Unable to rent Minivan to Casual Customer 658, none left in inventory.
+ ------------------------ 
+         Day 2            
+ ------------------------ 
+    Rentals Today: 4    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Standard Car with Licence Plate No. PPN582 was rented to Casual Customer No. 45 for 3 days, for a total fee of $225.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. VLP063 was rented to Regular Customer No. 791 for 5 days, for a total fee of $585.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Minivan Car with Licence Plate No. ELD442 was rented to Regular Customer No. 791 for 5 days, for a total fee of $325.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. RRE871 was rented to Regular Customer No. 791 for 5 days, for a total fee of $435.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 12  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 373 has the following rentals: 
+ - Economy Car, License Plate No. EBF038
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - SUV Car, License Plate No. PUU950
+ - Minivan Car, License Plate No. LKS428
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 95 has the following rentals: 
+ - Economy Car, License Plate No. LEZ178
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. ADP349
+ - SUV Car, License Plate No. VAO267
+ - SUV Car, License Plate No. REX719
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. PPN582
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. VLP063
+ - Minivan Car, License Plate No. ELD442
+ - Economy Car, License Plate No. RRE871
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 12  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. TWS373
+ - Luxury Car, License Plate No. GVB948
+ - Luxury Car, License Plate No. GUN681
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. GYG261
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. XHM780
+ - Economy Car, License Plate No. EGZ543
+ ------------------------ 
+    Total Made: $1570   
+ ------------------------ 
+Unable to rent SUV to Regular Customer 95, none left in inventory.
+Unable to rent Minivan to Regular Customer 95, none left in inventory.
+ ------------------------ 
+         Day 3            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Luxury Car with Licence Plate No. TQN112 was rented to Casual Customer No. 45 for 2 days, for a total fee of $170.0
+     Options Added:     
+     GPS     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 12  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - SUV Car, License Plate No. PUU950
+ - Minivan Car, License Plate No. LKS428
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 95 has the following rentals: 
+ - Economy Car, License Plate No. LEZ178
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. ADP349
+ - SUV Car, License Plate No. VAO267
+ - SUV Car, License Plate No. REX719
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. PPN582
+ - Luxury Car, License Plate No. TQN112
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. VLP063
+ - Minivan Car, License Plate No. ELD442
+ - Economy Car, License Plate No. RRE871
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 12  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. GVB948
+ - Luxury Car, License Plate No. GUN681
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. GYG261
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. XHM780
+ - Economy Car, License Plate No. EGZ543
+ - Economy Car, License Plate No. EBF038
+ ------------------------ 
+    Total Made: $170   
+ ------------------------ 
+Unable to rent SUV to Business Customer 653, none left in inventory.
+Unable to rent SUV to Casual Customer 45, none left in inventory.
+Unable to rent SUV to Regular Customer 93, none left in inventory.
+ ------------------------ 
+         Day 4            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. IZB657 was rented to Business Customer No. 653 for 7 days, for a total fee of $399.0
+     Options Added:     
+     GPS     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. GYG261 was rented to Business Customer No. 653 for 7 days, for a total fee of $280.0
+     Options Added:     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 11  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - SUV Car, License Plate No. PUU950
+ - Minivan Car, License Plate No. LKS428
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 95 has the following rentals: 
+ - Economy Car, License Plate No. LEZ178
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. VAO267
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. PPN582
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. VLP063
+ - Minivan Car, License Plate No. ELD442
+ - Economy Car, License Plate No. RRE871
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ - Standard Car, License Plate No. GYG261
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 13  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. GVB948
+ - Luxury Car, License Plate No. GUN681
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. EGZ543
+ - Economy Car, License Plate No. EBF038
+ - SUV Car, License Plate No. ADP349
+ - SUV Car, License Plate No. REX719
+ - Luxury Car, License Plate No. TQN112
+ ------------------------ 
+    Total Made: $679   
+ ------------------------ 
+Unable to rent Minivan to Business Customer 334, none left in inventory.
+Unable to rent SUV to Casual Customer 192, none left in inventory.
+ ------------------------ 
+         Day 5            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - SUV Car with Licence Plate No. XRA613 was rented to Business Customer No. 334 for 7 days, for a total fee of $924.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. CFJ553 was rented to Business Customer No. 334 for 7 days, for a total fee of $749.0
+     Options Added:     
+     GPS     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 11  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - SUV Car, License Plate No. PUU950
+ - Minivan Car, License Plate No. LKS428
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. VAO267
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. VLP063
+ - Minivan Car, License Plate No. ELD442
+ - Economy Car, License Plate No. RRE871
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ - Standard Car, License Plate No. GYG261
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 334 has the following rentals: 
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. CFJ553
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 13  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. GVB948
+ - Luxury Car, License Plate No. GUN681
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. EGZ543
+ - Economy Car, License Plate No. EBF038
+ - Luxury Car, License Plate No. TQN112
+ - Economy Car, License Plate No. LEZ178
+ - Standard Car, License Plate No. PPN582
+ ------------------------ 
+    Total Made: $1673   
+ ------------------------ 
+ ------------------------ 
+         Day 6            
+ ------------------------ 
+    Rentals Today: 0    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ ------------------------ 
+  Active Rentals Today: 9  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - SUV Car, License Plate No. PUU950
+ - Minivan Car, License Plate No. LKS428
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. VLP063
+ - Economy Car, License Plate No. RRE871
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ - Standard Car, License Plate No. GYG261
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 334 has the following rentals: 
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. CFJ553
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 15  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. GVB948
+ - Luxury Car, License Plate No. GUN681
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. EGZ543
+ - Economy Car, License Plate No. EBF038
+ - Luxury Car, License Plate No. TQN112
+ - Economy Car, License Plate No. LEZ178
+ - Standard Car, License Plate No. PPN582
+ - SUV Car, License Plate No. VAO267
+ - Minivan Car, License Plate No. ELD442
+ ------------------------ 
+    Total Made: $0   
+ ------------------------ 
+ ------------------------ 
+         Day 7            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - SUV Car with Licence Plate No. TWQ342 was rented to Casual Customer No. 648 for 1 days, for a total fee of $120.0
+     Options Added:     
+     GPS     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. VBF369 was rented to Regular Customer No. 791 for 2 days, for a total fee of $84.0
+     Options Added:     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 8  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - SUV Car, License Plate No. PUU950
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. VLP063
+ - Economy Car, License Plate No. VBF369
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ - Standard Car, License Plate No. GYG261
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 334 has the following rentals: 
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. CFJ553
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 16  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. GVB948
+ - Luxury Car, License Plate No. GUN681
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. EBF038
+ - Luxury Car, License Plate No. TQN112
+ - Economy Car, License Plate No. LEZ178
+ - Standard Car, License Plate No. PPN582
+ - Minivan Car, License Plate No. ELD442
+ - Minivan Car, License Plate No. LKS428
+ - Economy Car, License Plate No. RRE871
+ - SUV Car, License Plate No. TWQ342
+ ------------------------ 
+    Total Made: $204   
+ ------------------------ 
+ ------------------------ 
+         Day 8            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Luxury Car with Licence Plate No. PLO749 was rented to Casual Customer No. 373 for 1 days, for a total fee of $82.0
+     Options Added:     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. JCP246 was rented to Regular Customer No. 791 for 1 days, for a total fee of $127.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 7  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Standard Car, License Plate No. TYJ173
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ - Standard Car, License Plate No. GYG261
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 334 has the following rentals: 
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. CFJ553
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Economy Car, License Plate No. VBF369
+ - Luxury Car, License Plate No. JCP246
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 17  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. XTU729
+ - Standard Car, License Plate No. FYJ314
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. EBF038
+ - Luxury Car, License Plate No. TQN112
+ - Economy Car, License Plate No. LEZ178
+ - Standard Car, License Plate No. PPN582
+ - Minivan Car, License Plate No. ELD442
+ - Minivan Car, License Plate No. LKS428
+ - Economy Car, License Plate No. RRE871
+ - SUV Car, License Plate No. TWQ342
+ - SUV Car, License Plate No. PUU950
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ ------------------------ 
+    Total Made: $209   
+ ------------------------ 
+ ------------------------ 
+         Day 9            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Standard Car with Licence Plate No. OBP987 was rented to Casual Customer No. 45 for 3 days, for a total fee of $165.0
+     Options Added:     
+     GPS     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. HWF566 was rented to Regular Customer No. 95 for 4 days, for a total fee of $660.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 7  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ - Standard Car, License Plate No. GYG261
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 334 has the following rentals: 
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. CFJ553
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. JCP246
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. OBP987
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 95 has the following rentals: 
+ - SUV Car, License Plate No. HWF566
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 17  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. XTU729
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Standard Car, License Plate No. OHA175
+ - Luxury Car, License Plate No. ZEP900
+ - Economy Car, License Plate No. EBF038
+ - Luxury Car, License Plate No. TQN112
+ - Economy Car, License Plate No. LEZ178
+ - Standard Car, License Plate No. PPN582
+ - Minivan Car, License Plate No. ELD442
+ - Minivan Car, License Plate No. LKS428
+ - Economy Car, License Plate No. RRE871
+ - SUV Car, License Plate No. PUU950
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Standard Car, License Plate No. TYJ173
+ - Economy Car, License Plate No. VBF369
+ ------------------------ 
+    Total Made: $825   
+ ------------------------ 
+ ------------------------ 
+         Day 10            
+ ------------------------ 
+    Rentals Today: 8    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Minivan Car with Licence Plate No. REC006 was rented to Casual Customer No. 373 for 2 days, for a total fee of $244.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. BGZ695 was rented to Casual Customer No. 192 for 2 days, for a total fee of $178.0
+     Options Added:     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Minivan Car with Licence Plate No. VHP992 was rented to Business Customer No. 303 for 7 days, for a total fee of $630.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. UQO672 was rented to Business Customer No. 303 for 7 days, for a total fee of $434.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. GEN104 was rented to Business Customer No. 303 for 7 days, for a total fee of $679.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. FAT496 was rented to Regular Customer No. 32 for 4 days, for a total fee of $300.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. ZVF054 was rented to Casual Customer No. 373 for 2 days, for a total fee of $168.0
+     Options Added:     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. RUU744 was rented to Casual Customer No. 192 for 2 days, for a total fee of $210.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 13  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 334 has the following rentals: 
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. CFJ553
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. OBP987
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 95 has the following rentals: 
+ - SUV Car, License Plate No. HWF566
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 373 has the following rentals: 
+ - Minivan Car, License Plate No. REC006
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - Economy Car, License Plate No. BGZ695
+ - Luxury Car, License Plate No. RUU744
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. GEN104
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Standard Car, License Plate No. FAT496
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 11  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. TGM324
+ - Luxury Car, License Plate No. ZEK124
+ - Luxury Car, License Plate No. ZEP900
+ - Luxury Car, License Plate No. TQN112
+ - Standard Car, License Plate No. PPN582
+ - SUV Car, License Plate No. PUU950
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Standard Car, License Plate No. TYJ173
+ - Standard Car, License Plate No. GYG261
+ - Luxury Car, License Plate No. JCP246
+ ------------------------ 
+    Total Made: $2843   
+ ------------------------ 
+Unable to rent SUV to Regular Customer 32, none left in inventory.
+Unable to rent SUV to Regular Customer 32, none left in inventory.
+Unable to rent SUV to Casual Customer 648, none left in inventory.
+ ------------------------ 
+         Day 11            
+ ------------------------ 
+    Rentals Today: 4    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Standard Car with Licence Plate No. WIS580 was rented to Casual Customer No. 373 for 1 days, for a total fee of $105.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. VLO082 was rented to Casual Customer No. 658 for 1 days, for a total fee of $117.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. LNS567 was rented to Casual Customer No. 658 for 1 days, for a total fee of $107.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. VXR650 was rented to Regular Customer No. 93 for 3 days, for a total fee of $261.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 12  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 334 has the following rentals: 
+ - SUV Car, License Plate No. XRA613
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. OBP987
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 95 has the following rentals: 
+ - SUV Car, License Plate No. HWF566
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - Economy Car, License Plate No. BGZ695
+ - Luxury Car, License Plate No. RUU744
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. GEN104
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Standard Car, License Plate No. FAT496
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Luxury Car, License Plate No. VLO082
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Standard Car, License Plate No. VXR650
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 12  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. ZEK124
+ - Luxury Car, License Plate No. ZEP900
+ - Luxury Car, License Plate No. TQN112
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Standard Car, License Plate No. GYG261
+ - Luxury Car, License Plate No. JCP246
+ - SUV Car, License Plate No. CFJ553
+ - Minivan Car, License Plate No. REC006
+ - Economy Car, License Plate No. ZVF054
+ - Standard Car, License Plate No. WIS580
+ - SUV Car, License Plate No. LNS567
+ ------------------------ 
+    Total Made: $590   
+ ------------------------ 
+Unable to rent Minivan to Regular Customer 791, none left in inventory.
+ ------------------------ 
+         Day 12            
+ ------------------------ 
+    Rentals Today: 3    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Minivan Car with Licence Plate No. KGT097 was rented to Regular Customer No. 93 for 3 days, for a total fee of $462.0
+     Options Added:     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. ZVF054 was rented to Regular Customer No. 791 for 3 days, for a total fee of $252.0
+     Options Added:     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. RNS492 was rented to Regular Customer No. 791 for 3 days, for a total fee of $432.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 12  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. OBP987
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - Economy Car, License Plate No. BGZ695
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. GEN104
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Standard Car, License Plate No. FAT496
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Luxury Car, License Plate No. VLO082
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Standard Car, License Plate No. VXR650
+ - Minivan Car, License Plate No. KGT097
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ - SUV Car, License Plate No. RNS492
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 12  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. ZEK124
+ - Luxury Car, License Plate No. ZEP900
+ - Luxury Car, License Plate No. TQN112
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Standard Car, License Plate No. GYG261
+ - Luxury Car, License Plate No. JCP246
+ - Standard Car, License Plate No. WIS580
+ - SUV Car, License Plate No. LNS567
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ ------------------------ 
+    Total Made: $1146   
+ ------------------------ 
+Unable to rent Minivan to Casual Customer 658, none left in inventory.
+Unable to rent Economy to Casual Customer 373, none left in inventory.
+Unable to rent Economy to Regular Customer 95, none left in inventory.
+ ------------------------ 
+         Day 13            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Standard Car with Licence Plate No. TVB134 was rented to Casual Customer No. 192 for 1 days, for a total fee of $62.0
+     Options Added:     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. MIW771 was rented to Casual Customer No. 373 for 1 days, for a total fee of $117.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 11  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 653 has the following rentals: 
+ - Economy Car, License Plate No. IZB657
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. OBP987
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. GEN104
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Luxury Car, License Plate No. VLO082
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Standard Car, License Plate No. VXR650
+ - Minivan Car, License Plate No. KGT097
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ - SUV Car, License Plate No. RNS492
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 373 has the following rentals: 
+ - Luxury Car, License Plate No. MIW771
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 13  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. ZEP900
+ - Luxury Car, License Plate No. TQN112
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - Standard Car, License Plate No. WIS580
+ - SUV Car, License Plate No. LNS567
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Economy Car, License Plate No. BGZ695
+ - Standard Car, License Plate No. FAT496
+ - Standard Car, License Plate No. TVB134
+ ------------------------ 
+    Total Made: $179   
+ ------------------------ 
+ ------------------------ 
+         Day 14            
+ ------------------------ 
+    Rentals Today: 0    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ ------------------------ 
+  Active Rentals Today: 7  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 45 has the following rentals: 
+ - Standard Car, License Plate No. OBP987
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. GEN104
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Standard Car, License Plate No. VXR650
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 373 has the following rentals: 
+ - Luxury Car, License Plate No. MIW771
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 17  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. ZEP900
+ - Luxury Car, License Plate No. TQN112
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - Standard Car, License Plate No. WIS580
+ - SUV Car, License Plate No. LNS567
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Economy Car, License Plate No. BGZ695
+ - Standard Car, License Plate No. FAT496
+ - Standard Car, License Plate No. TVB134
+ - Economy Car, License Plate No. IZB657
+ - Luxury Car, License Plate No. VLO082
+ - Minivan Car, License Plate No. KGT097
+ - SUV Car, License Plate No. RNS492
+ ------------------------ 
+    Total Made: $0   
+ ------------------------ 
+ ------------------------ 
+         Day 15            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Luxury Car with Licence Plate No. SDG649 was rented to Regular Customer No. 93 for 1 days, for a total fee of $117.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. GEN104
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Luxury Car, License Plate No. SDG649
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. TQN112
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - Standard Car, License Plate No. WIS580
+ - SUV Car, License Plate No. LNS567
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Economy Car, License Plate No. BGZ695
+ - Standard Car, License Plate No. FAT496
+ - Standard Car, License Plate No. TVB134
+ - Economy Car, License Plate No. IZB657
+ - Luxury Car, License Plate No. VLO082
+ - Minivan Car, License Plate No. KGT097
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ ------------------------ 
+    Total Made: $117   
+ ------------------------ 
+ ------------------------ 
+         Day 16            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. CBH757 was rented to Casual Customer No. 658 for 1 days, for a total fee of $99.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. CLK943 was rented to Regular Customer No. 32 for 4 days, for a total fee of $528.0
+     Options Added:     
+     GPS     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 4  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ - Economy Car, License Plate No. GEN104
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Luxury Car, License Plate No. SDG649
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. CLK943
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 20  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. TQN112
+ - Luxury Car, License Plate No. VLP063
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - Standard Car, License Plate No. WIS580
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. FAT496
+ - Standard Car, License Plate No. TVB134
+ - Economy Car, License Plate No. IZB657
+ - Luxury Car, License Plate No. VLO082
+ - Minivan Car, License Plate No. KGT097
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ ------------------------ 
+    Total Made: $627   
+ ------------------------ 
+ ------------------------ 
+         Day 17            
+ ------------------------ 
+    Rentals Today: 3    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. XZA034 was rented to Regular Customer No. 93 for 1 days, for a total fee of $87.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. QHP306 was rented to Casual Customer No. 192 for 1 days, for a total fee of $95.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. SOF042 was rented to Casual Customer No. 45 for 3 days, for a total fee of $522.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Minivan Car, License Plate No. VHP992
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Luxury Car, License Plate No. SDG649
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. CLK943
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - Luxury Car, License Plate No. QHP306
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Luxury Car, License Plate No. SOF042
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - Standard Car, License Plate No. WIS580
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. FAT496
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - Minivan Car, License Plate No. KGT097
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ ------------------------ 
+    Total Made: $704   
+ ------------------------ 
+Unable to rent Minivan to Casual Customer 45, none left in inventory.
+ ------------------------ 
+         Day 18            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Minivan Car with Licence Plate No. FHC029 was rented to Casual Customer No. 192 for 1 days, for a total fee of $174.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. QSL052 was rented to Casual Customer No. 648 for 3 days, for a total fee of $345.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 4  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Regular Customer 93 has the following rentals: 
+ - Luxury Car, License Plate No. SDG649
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. CLK943
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Luxury Car, License Plate No. SOF042
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 648 has the following rentals: 
+ - Standard Car, License Plate No. QSL052
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 20  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - SUV Car, License Plate No. XRA613
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. FAT496
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Minivan Car, License Plate No. VHP992
+ - Luxury Car, License Plate No. QHP306
+ - Minivan Car, License Plate No. FHC029
+ ------------------------ 
+    Total Made: $519   
+ ------------------------ 
+ ------------------------ 
+         Day 19            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - SUV Car with Licence Plate No. KBC697 was rented to Casual Customer No. 373 for 1 days, for a total fee of $177.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. XDZ643 was rented to Casual Customer No. 658 for 3 days, for a total fee of $351.0
+     Options Added:     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 4  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. CLK943
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Luxury Car, License Plate No. SOF042
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 648 has the following rentals: 
+ - Standard Car, License Plate No. QSL052
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Standard Car, License Plate No. XDZ643
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 20  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Minivan Car, License Plate No. VHP992
+ - Luxury Car, License Plate No. QHP306
+ - Minivan Car, License Plate No. FHC029
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ ------------------------ 
+    Total Made: $528   
+ ------------------------ 
+ ------------------------ 
+         Day 20            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Minivan Car with Licence Plate No. HNP980 was rented to Casual Customer No. 373 for 1 days, for a total fee of $147.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 3  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Regular Customer 32 has the following rentals: 
+ - SUV Car, License Plate No. CLK943
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 648 has the following rentals: 
+ - Standard Car, License Plate No. QSL052
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Standard Car, License Plate No. XDZ643
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 21  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Minivan Car, License Plate No. FHC029
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - Minivan Car, License Plate No. HNP980
+ ------------------------ 
+    Total Made: $147   
+ ------------------------ 
+ ------------------------ 
+         Day 21            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Minivan Car with Licence Plate No. FHC029 was rented to Casual Customer No. 192 for 3 days, for a total fee of $522.0
+     Options Added:     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 3  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 648 has the following rentals: 
+ - Standard Car, License Plate No. QSL052
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Standard Car, License Plate No. XDZ643
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - Minivan Car, License Plate No. FHC029
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 21  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. PLO749
+ - Luxury Car, License Plate No. JCP246
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. UQO672
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - Minivan Car, License Plate No. HNP980
+ - SUV Car, License Plate No. CLK943
+ ------------------------ 
+    Total Made: $522   
+ ------------------------ 
+Unable to rent Minivan to Regular Customer 791, none left in inventory.
+ ------------------------ 
+         Day 22            
+ ------------------------ 
+    Rentals Today: 4    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. OXU505 was rented to Business Customer No. 303 for 7 days, for a total fee of $728.0
+     Options Added:     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Minivan Car with Licence Plate No. CKR817 was rented to Business Customer No. 303 for 7 days, for a total fee of $1288.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. PLO749 was rented to Business Customer No. 303 for 7 days, for a total fee of $574.0
+     Options Added:     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. OHZ504 was rented to Regular Customer No. 791 for 3 days, for a total fee of $522.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 6  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 648 has the following rentals: 
+ - Standard Car, License Plate No. QSL052
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - Minivan Car, License Plate No. FHC029
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. OXU505
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. OHZ504
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 18  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ ------------------------ 
+    Total Made: $3112   
+ ------------------------ 
+ ------------------------ 
+         Day 23            
+ ------------------------ 
+    Rentals Today: 0    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 192 has the following rentals: 
+ - Minivan Car, License Plate No. FHC029
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. OXU505
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Luxury Car, License Plate No. OHZ504
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. ZVF054
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ ------------------------ 
+    Total Made: $0   
+ ------------------------ 
+ ------------------------ 
+         Day 24            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. ZVF054 was rented to Regular Customer No. 32 for 5 days, for a total fee of $420.0
+     Options Added:     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 192 has the following rentals: 
+ - Minivan Car, License Plate No. FHC029
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. OXU505
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. CBH757
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ ------------------------ 
+    Total Made: $420   
+ ------------------------ 
+Unable to rent Minivan to Regular Customer 93, none left in inventory.
+ ------------------------ 
+         Day 25            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. YAN000 was rented to Regular Customer No. 93 for 5 days, for a total fee of $605.0
+     Options Added:     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. OXU505
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Economy Car, License Plate No. YAN000
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Luxury Car, License Plate No. RUU744
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Minivan Car, License Plate No. FHC029
+ ------------------------ 
+    Total Made: $605   
+ ------------------------ 
+ ------------------------ 
+         Day 26            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Luxury Car with Licence Plate No. UDD500 was rented to Casual Customer No. 373 for 1 days, for a total fee of $117.0
+     Options Added:     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. OXU505
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Economy Car, License Plate No. YAN000
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Standard Car, License Plate No. TVB134
+ - Luxury Car, License Plate No. VLO082
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. GEN104
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Minivan Car, License Plate No. FHC029
+ - Luxury Car, License Plate No. UDD500
+ ------------------------ 
+    Total Made: $117   
+ ------------------------ 
+ ------------------------ 
+         Day 27            
+ ------------------------ 
+    Rentals Today: 3    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. HXG109 was rented to Casual Customer No. 45 for 1 days, for a total fee of $119.0
+     Options Added:     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. QLV283 was rented to Casual Customer No. 648 for 2 days, for a total fee of $258.0
+     Options Added:     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Minivan Car with Licence Plate No. RGS093 was rented to Casual Customer No. 658 for 3 days, for a total fee of $588.0
+     Options Added:     
+     Radio     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 7  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. OXU505
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Economy Car, License Plate No. YAN000
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 648 has the following rentals: 
+ - Luxury Car, License Plate No. QLV283
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Minivan Car, License Plate No. RGS093
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 17  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Standard Car, License Plate No. TVB134
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Economy Car, License Plate No. HXG109
+ ------------------------ 
+    Total Made: $965   
+ ------------------------ 
+ ------------------------ 
+         Day 28            
+ ------------------------ 
+    Rentals Today: 0    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ ------------------------ 
+  Active Rentals Today: 6  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. OXU505
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Economy Car, License Plate No. ZVF054
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Economy Car, License Plate No. YAN000
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 648 has the following rentals: 
+ - Luxury Car, License Plate No. QLV283
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Minivan Car, License Plate No. RGS093
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 18  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Standard Car, License Plate No. TVB134
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Economy Car, License Plate No. XZA034
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Economy Car, License Plate No. HXG109
+ - Minivan Car, License Plate No. CKR817
+ ------------------------ 
+    Total Made: $0   
+ ------------------------ 
+ ------------------------ 
+         Day 29            
+ ------------------------ 
+    Rentals Today: 1    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. OLH535 was rented to Casual Customer No. 45 for 2 days, for a total fee of $198.0
+     Options Added:     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 4  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Luxury Car, License Plate No. PLO749
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Economy Car, License Plate No. YAN000
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Minivan Car, License Plate No. RGS093
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Economy Car, License Plate No. OLH535
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 20  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. HWF566
+ - Standard Car, License Plate No. TVB134
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. OBP987
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Economy Car, License Plate No. HXG109
+ - Minivan Car, License Plate No. CKR817
+ - Economy Car, License Plate No. OXU505
+ - Economy Car, License Plate No. ZVF054
+ - Luxury Car, License Plate No. QLV283
+ ------------------------ 
+    Total Made: $198   
+ ------------------------ 
+ ------------------------ 
+         Day 30            
+ ------------------------ 
+    Rentals Today: 3    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - SUV Car with Licence Plate No. BWR400 was rented to Casual Customer No. 373 for 2 days, for a total fee of $390.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. TUL223 was rented to Casual Customer No. 373 for 2 days, for a total fee of $144.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. DVJ970 was rented to Regular Customer No. 791 for 3 days, for a total fee of $225.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Regular Customer 93 has the following rentals: 
+ - Economy Car, License Plate No. YAN000
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - Economy Car, License Plate No. OLH535
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 373 has the following rentals: 
+ - SUV Car, License Plate No. BWR400
+ - Standard Car, License Plate No. TUL223
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Standard Car, License Plate No. DVJ970
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. MIW771
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Economy Car, License Plate No. HXG109
+ - Minivan Car, License Plate No. CKR817
+ - Economy Car, License Plate No. OXU505
+ - Economy Car, License Plate No. ZVF054
+ - Luxury Car, License Plate No. QLV283
+ - Luxury Car, License Plate No. PLO749
+ - Minivan Car, License Plate No. RGS093
+ ------------------------ 
+    Total Made: $759   
+ ------------------------ 
+ ------------------------ 
+         Day 31            
+ ------------------------ 
+    Rentals Today: 3    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. BJG979 was rented to Business Customer No. 303 for 7 days, for a total fee of $1008.0
+     Options Added:     
+     GPS     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Economy Car with Licence Plate No. ZEE517 was rented to Business Customer No. 303 for 7 days, for a total fee of $1057.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Luxury Car with Licence Plate No. MRU008 was rented to Business Customer No. 303 for 7 days, for a total fee of $1064.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 6  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 45 has the following rentals: 
+ - Economy Car, License Plate No. OLH535
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 373 has the following rentals: 
+ - Standard Car, License Plate No. TUL223
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Standard Car, License Plate No. DVJ970
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. BJG979
+ - Economy Car, License Plate No. ZEE517
+ - Luxury Car, License Plate No. MRU008
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 18  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - SUV Car, License Plate No. RNS492
+ - Standard Car, License Plate No. VXR650
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Minivan Car, License Plate No. CKR817
+ - Economy Car, License Plate No. ZVF054
+ - Luxury Car, License Plate No. QLV283
+ - Luxury Car, License Plate No. PLO749
+ - Minivan Car, License Plate No. RGS093
+ - Economy Car, License Plate No. YAN000
+ - SUV Car, License Plate No. BWR400
+ ------------------------ 
+    Total Made: $3129   
+ ------------------------ 
+ ------------------------ 
+         Day 32            
+ ------------------------ 
+    Rentals Today: 3    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Economy Car with Licence Plate No. NBK996 was rented to Casual Customer No. 658 for 3 days, for a total fee of $357.0
+     Options Added:     
+     GPS     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. VIX456 was rented to Casual Customer No. 192 for 2 days, for a total fee of $352.0
+     Options Added:     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Standard Car with Licence Plate No. OML395 was rented to Regular Customer No. 32 for 5 days, for a total fee of $560.0
+     Options Added:     
+     GPS     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 7  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Casual Customer 373 has the following rentals: 
+ - Standard Car, License Plate No. TUL223
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. BJG979
+ - Economy Car, License Plate No. ZEE517
+ - Luxury Car, License Plate No. MRU008
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Economy Car, License Plate No. NBK996
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - SUV Car, License Plate No. VIX456
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Standard Car, License Plate No. OML395
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 17  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - SUV Car, License Plate No. KBC697
+ - Luxury Car, License Plate No. SOF042
+ - SUV Car, License Plate No. CLK943
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. QLV283
+ - Luxury Car, License Plate No. PLO749
+ - Minivan Car, License Plate No. RGS093
+ - Economy Car, License Plate No. YAN000
+ - SUV Car, License Plate No. BWR400
+ - Economy Car, License Plate No. OLH535
+ - Standard Car, License Plate No. DVJ970
+ ------------------------ 
+    Total Made: $1269   
+ ------------------------ 
+ ------------------------ 
+         Day 33            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - SUV Car with Licence Plate No. PLD076 was rented to Casual Customer No. 192 for 1 days, for a total fee of $209.0
+     Options Added:     
+     Radio     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. ULU420 was rented to Casual Customer No. 45 for 3 days, for a total fee of $432.0
+     Options Added:     
+     Radio     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 6  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. BJG979
+ - Economy Car, License Plate No. ZEE517
+ - Luxury Car, License Plate No. MRU008
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 658 has the following rentals: 
+ - Economy Car, License Plate No. NBK996
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Standard Car, License Plate No. OML395
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - SUV Car, License Plate No. ULU420
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 18  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - Luxury Car, License Plate No. SOF042
+ - Standard Car, License Plate No. XDZ643
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Minivan Car, License Plate No. CKR817
+ - Luxury Car, License Plate No. QLV283
+ - Luxury Car, License Plate No. PLO749
+ - Minivan Car, License Plate No. RGS093
+ - Economy Car, License Plate No. YAN000
+ - SUV Car, License Plate No. BWR400
+ - Economy Car, License Plate No. OLH535
+ - Standard Car, License Plate No. DVJ970
+ - Standard Car, License Plate No. TUL223
+ - SUV Car, License Plate No. VIX456
+ - SUV Car, License Plate No. PLD076
+ ------------------------ 
+    Total Made: $641   
+ ------------------------ 
+ ------------------------ 
+         Day 34            
+ ------------------------ 
+    Rentals Today: 2    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Standard Car with Licence Plate No. RMH605 was rented to Regular Customer No. 93 for 3 days, for a total fee of $381.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Minivan Car with Licence Plate No. JHZ503 was rented to Regular Customer No. 791 for 5 days, for a total fee of $970.0
+     Options Added:     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 7  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. BJG979
+ - Economy Car, License Plate No. ZEE517
+ - Luxury Car, License Plate No. MRU008
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Standard Car, License Plate No. OML395
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 45 has the following rentals: 
+ - SUV Car, License Plate No. ULU420
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Standard Car, License Plate No. RMH605
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Minivan Car, License Plate No. JHZ503
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 17  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - Luxury Car, License Plate No. SOF042
+ - Standard Car, License Plate No. QSL052
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Luxury Car, License Plate No. QLV283
+ - Luxury Car, License Plate No. PLO749
+ - Minivan Car, License Plate No. RGS093
+ - Economy Car, License Plate No. YAN000
+ - SUV Car, License Plate No. BWR400
+ - Economy Car, License Plate No. OLH535
+ - Standard Car, License Plate No. DVJ970
+ - Standard Car, License Plate No. TUL223
+ - SUV Car, License Plate No. VIX456
+ - SUV Car, License Plate No. PLD076
+ - Economy Car, License Plate No. NBK996
+ ------------------------ 
+    Total Made: $1351   
+ ------------------------ 
+ ------------------------ 
+ That was the end of the simulation! 
+ ------------------------ 
+  Total Completed Rentals: 73  
+  Total Business Rentals: 15  
+  Total Casual Rentals: 35  
+  Total Regular Rentals: 23  
+  Total Revenue: $28875    
+ ------------------------ 
+         Day 35            
+ ------------------------ 
+    Rentals Today: 3    
+ ------------------------ 
+       Rental Info:       
+ ------------------------ 
+ - Standard Car with Licence Plate No. CBY616 was rented to Regular Customer No. 791 for 5 days, for a total fee of $725.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - SUV Car with Licence Plate No. KXI883 was rented to Casual Customer No. 373 for 1 days, for a total fee of $252.0
+     Options Added:     
+     GPS     
+     Radio     
+     Car Seat     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ - Minivan Car with Licence Plate No. IRW847 was rented to Casual Customer No. 192 for 2 days, for a total fee of $432.0
+     Options Added:     
+     Car Seat     
+     Car Seat     
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Active Rentals Today: 5  
+ ------------------------ 
+   Active Rental Info:    
+ ------------------------ 
+Business Customer 303 has the following rentals: 
+ - Economy Car, License Plate No. ZEE517
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 32 has the following rentals: 
+ - Standard Car, License Plate No. OML395
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 93 has the following rentals: 
+ - Standard Car, License Plate No. RMH605
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Regular Customer 791 has the following rentals: 
+ - Standard Car, License Plate No. CBY616
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Casual Customer 192 has the following rentals: 
+ - Minivan Car, License Plate No. IRW847
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+ ------------------------ 
+  Cars Left in Inventory: 19  
+ ------------------------ 
+     Cars Left Info:      
+ ------------------------ 
+ - Luxury Car, License Plate No. QHP306
+ - Luxury Car, License Plate No. SDG649
+ - Luxury Car, License Plate No. SOF042
+ - Luxury Car, License Plate No. OHZ504
+ - Luxury Car, License Plate No. UDD500
+ - Luxury Car, License Plate No. QLV283
+ - Luxury Car, License Plate No. PLO749
+ - Economy Car, License Plate No. YAN000
+ - Economy Car, License Plate No. OLH535
+ - Standard Car, License Plate No. DVJ970
+ - Standard Car, License Plate No. TUL223
+ - SUV Car, License Plate No. VIX456
+ - SUV Car, License Plate No. PLD076
+ - Economy Car, License Plate No. NBK996
+ - Economy Car, License Plate No. BJG979
+ - Luxury Car, License Plate No. MRU008
+ - SUV Car, License Plate No. ULU420
+ - Minivan Car, License Plate No. JHZ503
+ - SUV Car, License Plate No. KXI883
+ ------------------------ 
+    Total Made: $1409   
+ ------------------------ 
+ ------------------------ 
+ That was the end of the simulation! 
+ ------------------------ 
+  Total Completed Rentals: 77  
+  Total Business Rentals: 16  
+  Total Casual Rentals: 37  
+  Total Regular Rentals: 24  
+  Total Revenue: $30284    
+
+Process finished with exit code 0
