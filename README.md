@@ -1,4 +1,4 @@
-# OOAD_project3
+# OOAD Project 3 - The Rental Store
 # Team Members: Zora Watters and Jake Andrus
 
 How to run: Just run from main!
